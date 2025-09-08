@@ -4,6 +4,6 @@
 {\*\expandedcolortbl;;\csgray\c0;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
-This documentation explains how to use the Pavel automated toothbrush effectively.
+This documentation describes how to use the Karel automated toothbrush.
 toothbrush.
 Tip: For best results, brush for two minutes.
